@@ -25,10 +25,9 @@ Description: Training data for the stress prediction of twin boundaries in Au.
 	Label_PotEnergy: The label of potential energy.  
 
 
-## FILE3: GB_20Curve_Train.mat
+## FILE3: GB_20Curv_Train.mat
 
 Description: Training data for the stress prediction of 20° general tilt GBs in Au.  
-	Data_Origin: Original data from the LAMMPS output.  
 	STDD: Mean value and standard deviation of the data.  
 	Dist_Norm: The input of BPNN after a Z-Score normalization.   
 	Label_Mises: The label of von Mises stress.  
