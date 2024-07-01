@@ -15,7 +15,7 @@ Description: Training data for the stress prediction of 50.48° symmetrical tilt
 	Label_HydroStress: The label of atomic hydrostatic stress.  
 	Label_PotEnergy: The label of potential energy.  
 
-## FILE2: GB_5048.mat
+## FILE2: TB_Train.mat
 
 Description: Training data for the stress prediction of twin boundaries in Au.  
 	Data_Origin: Original data from the LAMMPS output.  
